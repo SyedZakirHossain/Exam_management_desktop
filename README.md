@@ -1,4 +1,5 @@
-# Exam_management_desktop
+# Pre and Post Exam_Management_System_desktop
+"Sohoz" is a Bangali word. The meaning of "Sohoz" is easy like anything.
 Time consuming calculations are now done in seconds.
 To reduce the huge work pressure before and after any exam. One stop solution.
 Sohoz an easy solution for the complicated exam transcript generating  program for Bangladeshi Secondary schools.
