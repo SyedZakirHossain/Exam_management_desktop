@@ -8,7 +8,7 @@ Time consuming calculations are now done in seconds. Very much effective, accura
 
 I feel very happy  when I get the user feedback that after using the program thay are  delighted and highly satisfied.
 
-Happy fases of users.
+Happy faces of users.
 ![sdug8](https://user-images.githubusercontent.com/63798914/229050160-4d269f17-ec18-4ab0-aa08-6713529fb5ff.jpg)
 
 Transcript : Before and now.
